@@ -1,0 +1,24 @@
+{
+    "name": "thebigcrafter/raccoon",
+    "description": "An entity engine for PocketMine plugins",
+    "type": "library",
+    "require": {
+        "php": "^8.1"
+    },
+    "require-dev": {
+        "phpstan/phpstan": "^1.10",
+        "friendsofphp/php-cs-fixer": "^3.40",
+        "pocketmine/pocketmine-mp": "^5.8"
+    },
+    "license": "GPL-3.0-only",
+    "autoload": {
+        "psr-4": {
+            "thebigcrafter\\raccoon\\": "src/thebigcrafter/raccoon"
+        }
+    },
+    "authors": [
+        {
+            "name": "thebigcrafter"
+        }
+    ]
+}
