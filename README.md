@@ -10,7 +10,7 @@ Raccoon is a thebigcrafter project intended to provide an entity library for Poc
 
 This repository currently contains the project metadata, license and branding asset, but no `src/` implementation or published consumer API. It is therefore not ready to be installed as a working library, packaged as a plugin PHAR or used as a runtime dependency.
 
-The Composer metadata records the intended package name `thebigcrafter/raccoon`, PHP `8.1+` development requirements and PocketMine-MP `5.8+` development tooling. Those metadata constraints do not prove that an implementation or API is available.
+The Composer metadata records the intended package name `thebigcrafter/raccoon`, PHP `8.1+` development requirements and [Axolotl-PM `5.49.1`](https://github.com/axolotl-pm/PocketMine-MP) as the current development baseline. Those metadata constraints do not prove that an implementation or API is available.
 
 ## Development boundary
 
